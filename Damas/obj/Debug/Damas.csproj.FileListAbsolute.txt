@@ -1,0 +1,10 @@
+C:\Users\jean_\source\repos\Damas\Damas\bin\Debug\Damas.exe.config
+C:\Users\jean_\source\repos\Damas\Damas\bin\Debug\Damas.exe
+C:\Users\jean_\source\repos\Damas\Damas\bin\Debug\Damas.pdb
+C:\Users\jean_\source\repos\Damas\Damas\obj\Debug\Damas.csprojAssemblyReference.cache
+C:\Users\jean_\source\repos\Damas\Damas\obj\Debug\Damas.Form1.resources
+C:\Users\jean_\source\repos\Damas\Damas\obj\Debug\Damas.Properties.Resources.resources
+C:\Users\jean_\source\repos\Damas\Damas\obj\Debug\Damas.csproj.GenerateResource.cache
+C:\Users\jean_\source\repos\Damas\Damas\obj\Debug\Damas.csproj.CoreCompileInputs.cache
+C:\Users\jean_\source\repos\Damas\Damas\obj\Debug\Damas.exe
+C:\Users\jean_\source\repos\Damas\Damas\obj\Debug\Damas.pdb
